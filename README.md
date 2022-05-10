@@ -24,4 +24,4 @@ This is for FaxStore. find more details on FaxStore below.
 1. [Cloud Nine](/Cloud-Nine)
 
 ## Contributors 
-- [Luis Quezada](https://quzada.nl)
+- [Luis Quezada](https://quezada.nl)
