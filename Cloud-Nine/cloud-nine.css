@@ -1,0 +1,155 @@
+/*
+    FaxStore Theme by Luis Quezada
+    https://quezada.nl
+*/
+
+#text05, #text52, #text50, #text13, #text21, #text47 {
+	color: #2FA4FF;
+    font-size: 2.5em;
+}
+
+#text19, #text56, #text96, #text01 {
+    color: #F6F6F6;
+}
+
+#text56, #text01 {
+    font-size: .9em;
+}
+
+#form02 input[type="text"], #form02 input[type="email"], #form02 textarea, #form02 select, #form02 .file, #form03 input[type="text"], #form01 input[type="text"], #form11 input[type="text"], #form11 input[type="email"], #form11 select, #form11 .file {
+    color: #FFFFFF;
+    background-color: rgba(41,41,41,0.3);
+}
+
+#form02 button, #form03 button, #form01 button {
+    background-color: #2FA4FF;
+    color: #FFFFFF;
+}
+
+#form02 button:hover, #form03 button:hover, #form01 button:hover {
+    background-color: #2F89FC;
+    color: #FFFFFF;
+}
+
+#text59, #text07 {
+    color: #DADADA;
+}
+
+#text07:after {
+    content: "\A | Theme by HypnoticSiege";
+}
+
+#text16 {
+	color: #548CFF;
+}
+
+#text53, #text54, #text55 {
+    color: #94B3FD;
+}
+
+#form13 button, #form05 button, #form08 button, #form09 button, #form14 button, #form10 button, #form19 button, #form16 button {
+    transition: ease-in-out .5s;
+    border-radius: 0.5rem;
+    background-color: #2FA4FF;
+    color: #FFFFFF;
+}
+
+#form13 button:hover, #form05 button:hover, #form08 button:hover, #form09 button:hover, #form14 button:hover, #form10 button:hover, #form19 button:hover, #form16 button:hover {
+    transition: ease-in-out .5s;
+    border-radius: 0.25rem;
+    background-color: #2F89FC;
+    color: #FFFFFF;
+}
+
+#form12 button, #form11 button {
+    transition: ease-in-out .5s;
+    border-radius: .25rem;
+    background-color: #2FA4FF;
+    color: #FFFFFF;
+}
+
+#form12 button:hover, #form11 button:hover {
+    transition: ease-in-out .5s;
+    border-radius: 0.1rem;
+    background-color: #2F89FC;
+    color: #FFFFFF;
+}
+
+#form13 input[type="text"], #form13 input[type="email"], #form13 input[type="number"], #form13 textarea, #form13 select, #form13 .file, #form05 input[type="text"], #form05 input[type="email"], #form05 textarea, #form05 select, #form05 .file, #form09 input[type="text"], #form09 input[type="email"], #form09 textarea, #form09 select, #form09 .file, #form08 textarea, #form14 input[type="text"], #form14 input[type="email"], #form14 select, #form14 .file, #form12 input[type="text"], #form12 input[type="email"], #form12 select, #form12 .file, #form10 input[type="text"], #form10 input[type="email"], #form10 select, #form10 .file, #form19 input[type="text"], #form19 input[type="email"], #form19 select, #form19 textarea, #form19 .file, #form16 input[type="text"], #form16 input[type="email"], #form16 select, #form16 textarea, #form16 .file {
+    border-radius: 0.25rem;
+    color: #FFFFFF;
+    background-color: rgba(41,41,41,0.3);
+    border: 1px solid #E4FBFF;
+}
+
+#form19 .file:after {
+    background-color: rgba(47, 164, 255, 0.7);
+}
+
+#form02 input[type="text"], #form02 input[type="email"], #form02 select, #form02 .file, #form03 input[type="text"], #form03 input[type="email"], #form03 select, #form03 .file {
+    border-radius: 0.25rem;
+    color: #FFFFFF;
+    background-color: rgba(41,41,41,0.3);
+
+}
+
+#image02 img {
+    width: 30rem;
+    border-radius: 1.25rem;
+}
+
+#text31 {
+    font-size: 1.5em;
+}
+
+#buttons09 .button {
+    border-radius: 0.25rem;
+    background-color: #00AF91;
+}
+
+#text57 {
+    font-size: 1.5em;
+    line-height: 1.0;
+}
+
+#text58 u {
+    color: #DADADA;
+    text-decoration: none;
+}
+
+#text59 {
+    font-size: .8em;
+    line-height: 1.0;
+}
+
+#buttons06 .n01 {
+    border-radius: 0.25rem;
+    background-color: #0E49B5;
+}
+
+#buttons06 .n02 {
+    border-radius: 0.25rem;
+    background-color: #00BD56;
+}
+
+#buttons12 .button {
+    border-radius: 1rem;
+}
+
+label[for="form20-discord-id"]{
+    visibility: hidden;
+    position: relative;
+}
+
+label[for="form20-discord-id"]:after{
+    visibility: visible;
+    position: absolute;
+    top: 0;
+    left: 0;
+    content:'User ID:';
+}
+
+.userPageRows {
+    border-color: #ffff;
+    background-color: hsla(0, 0%, 0%, .1);
+}
