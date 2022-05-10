@@ -21,7 +21,7 @@ This is for FaxStore. find more details on FaxStore below.
 - Select the theme in the list and save!
 
 # Current Themes
-1. [Cloud Nine](/cloud-nine)
+1. [Cloud Nine](/Cloud-Nine)
 
 ## Contributors 
 - [Luis Quezada](https://quzada.nl)
