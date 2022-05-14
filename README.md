@@ -16,8 +16,7 @@ This is for FaxStore. find more details on FaxStore below.
 # Installation
 - Navigate to the directory of the theme you want to install.
 - Download the theme.
-- Upload the theme to `public/themes` in your FaxStore directory.
-- Visit `yourdomain.tld/staff/themes` and you should see the theme in the list.
+- Upload the theme to via the 'Theme' page in your staff panel.
 - Select the theme in the list and save!
 
 # Current Themes
