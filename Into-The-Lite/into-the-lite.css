@@ -1,0 +1,246 @@
+/*
+    FaxStore Theme by Luis Quezada
+    https://quezada.nl
+*/
+
+body:before {
+    background-image: none;
+    background-color: #F7F7F7;
+}
+
+#main .container.full:first-child > .wrapper > .inner {
+    background-color: #3178c6;
+}
+
+#buttons03 li a {
+    font-size: 0.75em;
+}
+
+#text05, #text52, #text50, #text13, #text21, #text47, #text94 {
+	color: #3178c6;
+    font-size: 2.5em;
+}
+
+#text19, #text56, #text04, #text17, #text45, #text24, table, tr, #text96, #text97, #text23, #text41, #text01, #text75, #text76, #text71, #text73, #text58, #text59, #text31, #table13, #text99, #text34, #text14 {
+    color: #0F0F0F;
+}
+
+#table02 thead {
+    border-bottom: solid 2px #0F0F0F;
+}
+
+.hoverhehe {
+    color: #0F0F0F !important;
+    text-decoration: none !important;
+}
+
+#text99 svg {
+    fill: #0F0F0F;
+}
+
+p.convertPara {
+    color: #0F0F0F;
+}
+
+#table07 {
+    color: #0F0F0F;
+}
+
+#form05 label:first-child {
+    color: #0F0F0F;
+}
+
+#text56, #text01 {
+    font-size: .9em;
+}
+
+#form02 input[type="text"], #form02 input[type="email"], #form02 textarea, #form02 select, #form02 .file, #form03 input[type="text"], #form01 input[type="text"], #form11 input[type="text"], #form11 input[type="email"], #form11 select, #form11 .file {
+    color: #0F0F0F;
+    background-color: rgba(41,41,41,0.3);
+}
+
+#form02 button, #form03 button, #form01 button {
+    margin-left: .5em;
+    transition: ease-in-out .5s;
+    border-radius: 0.25rem;
+    background-color: #2FA4FF;
+    color: #FFFFFF;
+}
+
+#form02 button:hover, #form03 button:hover, #form01 button:hover {
+    transition: ease-in-out .5s;
+    border-radius: .15rem;
+    background-color: #2F89FC;
+    color: #FFFFFF;
+}
+
+#text07:after {
+    content: "\A | Theme by HypnoticSiege";
+}
+
+#text16 {
+	color: #3178c6;
+}
+
+#text95 svg {
+    height: 3.5em;
+    width: 3.5em;
+    padding: 10px;
+    border-radius: .25em;
+    background-color: #D1D1D1;
+}
+
+#text53, #text54, #text55 {
+    color: #2666CF;
+}
+
+#form13 button, #form05 button, #form08 button, #form09 button, #form14 button, #form10 button, #form19 button, #form16 button {
+    transition: ease-in-out .5s;
+    border-radius: 0.5rem;
+    background-color: #2FA4FF;
+    color: #FFFFFF;
+}
+
+#form13 button:hover, #form05 button:hover, #form08 button:hover, #form09 button:hover, #form14 button:hover, #form10 button:hover, #form19 button:hover, #form16 button:hover {
+    transition: ease-in-out .5s;
+    border-radius: 0.25rem;
+    background-color: #2F89FC;
+    color: #FFFFFF;
+}
+
+#form12 button, #form11 button {
+    transition: ease-in-out .5s;
+    border-radius: .25rem;
+    background-color: #2FA4FF;
+    color: #FFFFFF;
+}
+
+#form12 button:hover, #form11 button:hover {
+    transition: ease-in-out .5s;
+    border-radius: 0.1rem;
+    background-color: #2F89FC;
+    color: #FFFFFF;
+}
+
+#form13 input[type="text"], #form13 input[type="email"], #form13 input[type="number"], #form13 textarea, #form13 select, #form13 .file, #form05 input[type="text"], #form05 input[type="email"], #form05 textarea, #form05 select, #form05 .file, #form09 input[type="text"], #form09 input[type="email"], #form09 textarea, #form09 select, #form09 .file, #form08 textarea, #form14 input[type="text"], #form14 input[type="email"], #form14 select, #form14 .file, #form12 input[type="text"], #form12 input[type="email"], #form12 select, #form12 .file, #form10 input[type="text"], #form10 input[type="email"], #form10 select, #form10 .file, #form19 input[type="text"], #form19 input[type="email"], #form19 select, #form19 textarea, #form19 .file, #form16 input[type="text"], #form16 input[type="email"], #form16 select, #form16 textarea, #form16 .file {
+    border-radius: 0.25rem;
+    color: #FFFFFF;
+    background-color: rgba(41,41,41,0.3);
+}
+
+#form13 label:first-child {
+    font-size: 1.15em;
+    font-weight: bold;
+    color: #0F0F0F;
+}
+
+#form19 .file:after {
+    background-color: rgba(47, 164, 255, 0.7);
+}
+
+#form02 input[type="text"], #form02 input[type="email"], #form02 select, #form02 .file, #form03 input[type="text"], #form03 input[type="email"], #form03 select, #form03 .file {
+    border-radius: 0.25rem;
+    color: #FFFFFF;
+    background-color: rgba(41,41,41,0.3);
+}
+
+#image02 img {
+    width: 30rem;
+    border-radius: 1.25rem;
+}
+
+#text31 {
+    font-size: 1.5em;
+}
+
+#buttons09 .button {
+    border-radius: 0.25rem;
+    background-color: #00BD56;
+}
+
+#text57 {
+    font-size: 1.5em;
+    line-height: 1.0;
+}
+
+#text58 u, #text57 {
+    color: #171717;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#text59 {
+    font-size: .8em;
+    line-height: 1.0;
+}
+
+#buttons06 .n01 {
+    border-radius: 0.25rem;
+    background-color: #0E49B5;
+}
+
+#buttons06 .n02 {
+    border-radius: 0.25rem;
+    background-color: #00BD56;
+}
+
+#buttons12 .button {
+    border-radius: 1rem;
+}
+
+label[for="form20-discord-id"]{
+    visibility: hidden;
+    position: relative;
+}
+
+label[for="form20-discord-id"]:after{
+    visibility: visible;
+    position: absolute;
+    top: 0;
+    left: 0;
+    content:'User ID:';
+}
+
+.userPageRows {
+    border-color: #ffff;
+    background-color: hsla(0, 0%, 0%, .1);
+}
+
+.userPageRows:hover {
+    background-color: hsla(0, 0%, 0%, .2);
+}
+
+#buttons03 .button.n02 {
+    border-radius: 0.15rem;
+    background-color: #FFAC41;
+}
+
+#buttons03 .button.n03 {
+    border-radius: 0.15rem;
+    background-color: #2F89FC;
+}
+
+#buttons03 .button.n04 {
+    border-radius: 0.15rem;
+    background-color: #FF1E56;
+}
+
+.dropdown-content a{
+    color: #0F0F0F;
+    font-weight: bold;
+}
+
+#form13 input[type="checkbox"] + label, #form04 input[type="checkbox"] + label {
+    color: #0F0F0F;
+    font-weight: bold;
+}
+
+#buttons12 .button {
+    border-radius: 0.25rem;
+    background-color: #2F89FC;
+}
+
+#staff-section, #staffadsettings-section, #storesettings-section, #insights-section, #itemcreate-section, #homesettings-section, #teamsettings-section, #gallerysettings-section, #usersettings-section, #staffsettings-section, #staffemail-section, #owned-section {
+    border-radius: .5rem;
+    background-color: #BBBBBB;
+}
