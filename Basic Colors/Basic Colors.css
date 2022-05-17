@@ -1,0 +1,15 @@
+/* Add a navbar CSS color right below and change the site background to a color instead of image. */
+
+#container01 .inner {
+    background-color: rgba(255, 198, 25) !important; /* Add the navbar color here in RGBA form. */
+}
+
+body:before {
+    background-image: none;
+    background-color: #2f3136; /* Add the color of your choice here in HEX form. */
+}
+
+
+#container01 { /* This adds basic navbar shadow to make the navbar pop a little more with static colors. */
+    box-shadow:0px 1px 0.55rem rgb(255, 198, 25); /* For best results, make it the same color as your navbar. */
+}
