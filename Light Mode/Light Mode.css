@@ -1,0 +1,310 @@
+body:before {
+    background-image: none;
+    background-color: whitesmoke;
+}
+
+p {
+    color: #000000 !important;
+}
+
+.userPageButtons p {
+    color: #FFFFFF !important; 
+}
+
+
+
+#container08 .image {
+    background-color: rgba(41,41,41,0.6);
+    border-radius: 4px;
+}
+
+#table01 {
+    color: #000000;
+}
+
+/* Header Content */
+#container01 .inner {background-color: rgb(245, 245, 245); /* Change header background */}
+
+#container01 {
+    /* border-bottom: solid 2px #000000; */
+    filter: drop-shadow(0 0 0.15rem #0000007e); 
+} /* Change header border color and drop shadow */
+
+#buttons03 .button {color: #000000;}
+#buttons03 .button:hover {background-color: rgba(202, 202, 202, 0.169) !important;}
+
+#buttons01 .button {color: #000000;}
+#buttons01 .button:hover {background-color: rgba(202, 202, 202, 0.169) !important;}
+
+.dropdown-content a {color: #000000;}
+.dropdown-content a:hover {background-color: rgba(202, 202, 202, 0.169) !important;}
+
+.notiModal #text09 {color: #FFFFFF;}
+
+.modal {background-color: rgba(0,0,0,0.2);}
+
+#buttons01 li a svg {fill: #000000;}
+
+/* Staff Header */
+
+#buttons12 .button {color: #000000;}
+#buttons12 .button:hover {background-color: rgba(202, 202, 202, 0.169) !important;}
+.dropdown-content-admin a {color: #000000;}
+.dropdown-content-admin a:hover {background-color: rgba(202, 202, 202, 0.169) !important;}
+
+/* Footer Content */
+#icons01 a svg {
+    fill: #000000;
+}
+
+/* Home Page Content */
+#text05 {color: #000000;}
+#text19 {color: #000000;}
+#text69 {color: #000000;}
+#text23 {color: #000000;}
+#text96 {color: #000000;}
+#text59 {color: #000000;}
+
+#divider02:before {
+    border-top: solid 1px rgba(46, 46, 46, 0.271);
+}
+
+#buttons11 .button { /* Search Tag Buttons */
+    background-color: #8a8a8ab9;
+}
+
+#buttons11 .button:hover { /* Search Tag Buttons */
+    background-color: rgba(83, 83, 83, 0.725) !important;
+}
+
+/* Store Page Content */
+#text50 {color: #000000;}
+#text04 {color: #000000;}
+#text71 {color: #000000;}
+#text73 {color: #000000;}
+
+#buttons06 .n01 {
+    background-color: rgba(31,80,255,0.79);
+}
+#buttons06 .n01:hover {
+    background-color: rgba(31,80,255,0.95) !important;
+}
+
+#buttons06 .n02 {
+    background-color: rgba(0,168,21,0.79);
+}
+#buttons06 .n02:hover {
+    background-color: rgba(0,168,21,0.95) !important;
+}
+
+#buttons16 .button { /* Search Tag Buttons */
+    background-color: #8a8a8ab9;
+}
+
+#buttons16 .button:hover { /* Search Tag Buttons */
+    background-color: rgba(83, 83, 83, 0.725) !important;
+}
+
+#image05 {
+    filter: drop-shadow(0 0 0.15rem rgb(0, 0, 0))
+}
+
+/* Team Page Content */
+#text52 {color: #000000;}
+#text56 {color: #000000;}
+
+/* Reviews Page */
+#text13 {color: #000000;}
+#text01 {color: #000000;}
+
+/* Terms of Service Content */
+#text21 {color: #000000;}
+
+/* Gallery Content */
+#text47 {color: #000000;}
+
+/* Search Content */
+#text09 {color: #000000;}
+
+/* User Profile Content */
+#text97 {color: #000000;}
+#text41 {color: #000000;}
+#text41 span svg {fill: #000000;}
+#text41 code {color: #FFFFFF;}
+#text31 {color: #000000;}
+#text94 {color: #000000;}
+#table13 {color: #000000;}
+#table13 thead {border-bottom: solid 2px rgba(46, 46, 46, 0.271);}
+
+#buttons08 .n01 {
+    background-color: rgba(255,31,31,0.7);
+}
+#buttons08 .n01:hover {
+    background-color: rgba(255,31,31,0.9) !important;
+}
+
+#buttons08 .n02 {
+    background-color: rgba(31, 80, 255,0.7);
+}
+
+#buttons08 .n02:hover {
+    background-color: rgba(31, 80, 255,0.9) !important;
+}
+
+#slideshow01 { /* Home Page Gallery */
+    filter: drop-shadow(0 0 0.15rem rgb(0, 0, 0));
+}
+
+#divider01:before {border-top: solid 1px rgba(46, 46, 46, 0.271);}
+
+/* User Settings Content */
+#form13 input[type="checkbox"] + label {color: #000000;}
+#form13 label:first-child {color: #000000;}
+
+#form13 button {
+    background-color: rgba(0,168,21,0.7);
+}
+
+#form13 button:hover {
+    background-color: rgba(0,168,21,0.9);
+}
+
+/* Cart Content */
+#text17 {color: #000000;}
+#text45 {color: #000000;}
+#text24 {color: #000000;}
+#table02 {color: #000000;}
+
+
+/* Staff Panel Content */
+#text16 {color: #000000;}
+#text48 {color: #000000;}
+#text91 {color: #000000;}
+#text53 {color: #000000;}
+#text54 {color: #000000;}
+#table07 {color: #000000;}
+#text55 {color: #000000;}
+#text14 {color: #000000;}
+#divider07:before {border-top: solid 1px rgba(46, 46, 46, 0.271);}
+
+#buttons05 .n01 {
+    background-color: rgba(31, 80, 255,0.7);
+}
+
+#buttons05 .n01:hover {background-color: rgba(31, 80, 255,0.9) !important;}
+#form05 button {background-color: rgba(0,168,21,0.7);}
+#form05 button:hover {background-color: rgba(0,168,21,0.9);}
+#form08 label:first-child {color: #000000;}
+#form08 button {background-color: rgba(0,168,21,0.7);}
+#form08 button:hover {background-color: rgba(0,168,21,0.9);}
+
+/* Listing View Page */
+#text34 {color: #000000;} /* Title */
+#text34 code {background-color: rgba(107, 107, 107, 0.725);} /* Price */
+#text34 {color: #000000;} /* Title */
+#text34 {color: #000000;} /* Title */
+#text34 {color: #000000;} /* Title */
+#text34 {color: #000000;} /* Title */
+
+#image02 { /* Feature Image */
+    filter: drop-shadow(0 0 0.15rem rgb(0, 0, 0))
+}
+
+
+#buttons09 .n01 { /* Demo Button */
+    background-color: rgba(31, 80, 255,0.7);
+}
+
+#buttons09 .n01:hover { /* Demo Button */
+    background-color: rgba(31, 80, 255,0.9) !important;
+}
+
+#buttons09 .n02 { /* Redirect Button */
+    background-color: rgba(31, 80, 255,0.7);
+}
+
+#buttons09 .n02:hover { /* Redirect Button */
+    background-color: rgba(31, 80, 255,0.9) !important;
+}
+
+#buttons09 .n03 { /* Add To Cart Button */
+    background-color: rgba(0,168,21,0.7);
+}
+
+#buttons09 .n03:hover { /* Add To Cart Button */
+    background-color: rgba(0,168,21,0.9) !important;
+}
+
+/* Conversions */
+.convertPara, .convertli {color: #000000 !important;}
+.convertHr {border-top: solid 1px rgba(46, 46, 46, 0.271) !important;}
+h1, h2, h3, h4 {color: #000000 !important;}
+.convertPara code {background-color: rgba(107, 107, 107, 0.725) !important;}
+.convertQuote {
+    background: rgb(122, 122, 122) !important;
+    border-left: 10px solid rgb(167, 167, 167) !important;
+}
+code { /* Inline Code Block */
+    background-color: rgba(41,41,41,0.8);
+    color: #FFFFFF;
+}
+
+button {
+    background-color: rgba(0,168,21,0.7);
+}
+
+button:hover {
+    background-color: rgba(0,168,21,0.9);
+}
+
+table {
+    color: #000000;
+}
+
+#text09 {
+    color: #FFFFFF !important;
+}
+
+#table13 {
+    color: #FFFFFF !important;
+}
+
+.notiItem {
+    color: #FFFFFF;
+}
+
+#modalNotis #text76 {
+    color: #FFFFFF !important;
+}
+
+#form04 button {
+    background-color: rgba(15, 156, 216, 0.8) !important;
+}
+
+#form04 button:hover {
+    background-color: rgba(32, 56, 129, 0.95) !important;
+}
+
+#form04 .stripeButton {
+    background-color: rgba(127, 135, 245, 0.8) !important; 
+}
+
+#form04 .stripeButton:hover {
+    background-color: rgba(74, 81, 176, 0.95) !important;
+}
+
+#table02 td a {
+    color: #000000 !important;
+}
+
+#table02 td a:hover {
+    color: #00AAFF !important;
+}
+
+#form04 label {
+    color: #000000 !important;
+}
+
+.userNotes p {
+    color: #ffffff !important; 
+}
