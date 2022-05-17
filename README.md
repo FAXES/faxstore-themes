@@ -4,7 +4,8 @@ This repository contains all of the Offical FaxStore themes and there files.
 
 In each directory is a different theme along with information for that theme.
 
-*User contributions are welcome via PRs for user created themes to be properly supported.* 
+*User contributions are welcome via PRs for user created themes to be properly supported.*
+*When contributing make sure to read the [README format doc](https://github.com/FAXES/faxstore-themes/wiki/How-to-README.md)*
 
 This is for FaxStore. find more details on FaxStore below.
 
@@ -19,9 +20,6 @@ This is for FaxStore. find more details on FaxStore below.
 - Upload the theme to via the 'Theme' page in your staff panel.
 - Select the theme in the list and save!
 
-# Current Themes
-1. [Cloud Nine](/Cloud-Nine)
-2. [Into The Lite](/Into-The-Lite)
-
 ## Contributors 
+- [FAXES](/FAXES)
 - [Luis Quezada](https://quezada.nl)
