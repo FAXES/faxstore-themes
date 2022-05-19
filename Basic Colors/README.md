@@ -1,6 +1,6 @@
 # Basic Colors
 
-Change the navbar and background to a static color to amke things super basic.
+Change the navbar and background to a static color to easily make these changes.
 
 ---
 
