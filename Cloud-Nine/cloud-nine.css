@@ -136,6 +136,16 @@
     border-radius: 1rem;
 }
 
+#buttons10 .n01 {
+    border-radius: 0.25rem;
+    background-color: #0E49B5;
+}
+#buttons10 .n02 {
+    border-radius: 0.25rem;
+    background-color: #00BD56;
+}
+
+
 label[for="form20-discord-id"]{
     visibility: hidden;
     position: relative;
