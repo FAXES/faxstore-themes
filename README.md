@@ -1,4 +1,4 @@
-# FaxStore Themes CHANGED
+# FaxStore Themes
 
 This repository contains all of the Offical FaxStore themes and there files.
 
