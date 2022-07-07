@@ -1,3 +1,5 @@
+![banner](https://github.com/FAXES/faxstore-themes/blob/main/Simple%20Vibrant/banner.png?raw=true)
+
 # Simple Vibrant
 For a long time I know I have always wanted to clean up the look of FaxStore V2 to better suit both my personality, and my business design. So, I created this theme to keep things simple, as they were, but also, bring a little more vibrance to my version of FaxStore. With a redesign of pretty much every button, and a few page touch ups, this theme is sure to bring out a little more vibrance, and color sleekness in your FaxStore environment.
 
