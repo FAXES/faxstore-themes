@@ -13,3 +13,5 @@ There are more changes in this theme, but these are the ones I decided I wanted 
 
 # Credits
 - [@Hyperz](https://github.com/itz-hyperz) - *Theme creation.*
+
+*This theme is designed and intended for [FaxStore](https://faxes.zone/faxstore) usage. The above creator accepts no liability.*
