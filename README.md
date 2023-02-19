@@ -15,11 +15,13 @@ This is for FaxStore. find more details on FaxStore below.
 - Terms of Service: https://faxes.zone/tos
 
 # Installation
+
 - Navigate to the directory of the theme you want to install.
 - Download the theme.
 - Upload the theme to via the 'Theme' page in your staff panel.
 - Select the theme in the list and save!
 
 ## Contributors 
+
 - [FAXES](/FAXES)
 - [Luis Quezada](https://quezada.nl)
