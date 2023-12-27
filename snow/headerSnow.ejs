@@ -3,7 +3,7 @@
 	var unreadNotis = userInfo.notis.filter(e => e.hidden == 0) || [];
 %>
 <head>
-	<title><%= onlyTitle ? siteInfo.sitename : `${title} - ${siteInfo.sitename}`%></title>
+	<title><%= `${title} - ${siteInfo.sitename}` %></title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
 	<meta name="description" content="<%= headDesc ?? siteInfo.sitedesc %>" />
